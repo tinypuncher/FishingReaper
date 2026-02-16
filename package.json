@@ -1,5 +1,5 @@
 {
-  "name": "fishing-reaper-bot",
+  "name": "fishing-reaper-ai-bot",
   "version": "1.0.0",
   "main": "webhook.js",
   "scripts": {
