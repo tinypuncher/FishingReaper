@@ -1,0 +1,13 @@
+{
+  "name": "fishing-reaper-bot",
+  "version": "1.0.0",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
